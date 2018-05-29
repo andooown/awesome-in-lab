@@ -6,3 +6,6 @@
 
 # pipenv
 .venv/
+
+# Model file
+model/
