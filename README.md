@@ -10,3 +10,7 @@
 - [keras-deep-dream-practice](https://github.com/andooown/awesome-in-lab/tree/master/keras-deep-dream-practice)
     - KerasでDeep Dream
     - 卒研生課題 6-4
+
+- [word2vec-practice](https://github.com/andooown/awesome-in-lab/tree/master/word2vec-practice)
+    - Word2Vecのベクトル演算の実験
+    - 卒研生課題 7-1
