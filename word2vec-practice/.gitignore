@@ -1,0 +1,11 @@
+# Python
+*.pyc
+
+# PyCharm
+.idea/
+
+# pipenv
+.venv/
+
+# Model file
+model/
