@@ -16,7 +16,7 @@ fi
 sudo chmod u-s /usr/sbin/useradd
 sudo chmod u-s /usr/sbin/groupadd
 
-git clone git://github.com/yyuu/pyenv.git ${HOME}/.pyenv
+git clone https://github.com/pyenv/pyenv.git ${HOME}/.pyenv
 export PYENV_ROOT=${HOME}/.pyenv
 export PATH=${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${PATH}
 
