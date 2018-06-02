@@ -7,7 +7,7 @@
         ```
         $ docker run -it --runtime=nvidia -u $(id -u):$(id -g) -v $(pwd):/home/developer/work andooown/lab-cuda:9.0-cudnn7-runtime
         ```
-    - nvidia-docker
+    - nvidia-docker(in Lab)
         ```
-        $ nvidia-docker run -it -u $(id -u):$(id -g) -v $(pwd):/home/developer/work andooown/lab-cuda:9.0-cudnn7-runtime
+        $ nvidia-docker run -it -u `id -u`:`id -g` -v `pwd`:/home/developer/work andooown/lab-cuda:9.0-cudnn7-runtime
         ```
