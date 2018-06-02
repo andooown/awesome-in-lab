@@ -1,7 +1,7 @@
 # Docker for lab
 研究室で利用するための`Dockerfile`置き場
 
-- lab-cuda
+- [lab-cuda](https://hub.docker.com/r/andooown/lab-cuda/)
     - `nvidia/cuda:9.0-cudnn7-runtime`をベースにしたイメージ
     - nvidia-docker2
         ```
