@@ -1,6 +1,8 @@
 # awesome-in-lab
 研究室での卒研生課題とかいろいろをまとめたリポジトリ
 
+## 卒研生課題
+### 6
 - [keras-multi-gpu-test](https://github.com/andooown/awesome-in-lab/tree/master/keras-multi-gpu-test)
     - マルチGPU環境での学習テスト
     - 卒研生課題 6-1
@@ -11,6 +13,10 @@
     - KerasでDeep Dream
     - 卒研生課題 6-4
 
+### 7
 - [word2vec-practice](https://github.com/andooown/awesome-in-lab/tree/master/word2vec-practice)
     - Word2Vecのベクトル演算の実験
-    - 卒研生課題 7-1
+    - 卒研生課題 7-2
+
+### Docker
+[Docker](https://github.com/andooown/awesome-in-lab/tree/master/docker)
